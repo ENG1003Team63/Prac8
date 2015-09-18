@@ -13,7 +13,10 @@ Hello
 Team Role: Undefined 
 Preferred Branch of Engineering: No Idea
 
-MEMBER 3 MATTHEW RIBEIRO 
+MEMBER 3 MATTHEW RIBEIRO
+Hi I'm Matt
+Team Role: Undefined
+Preffered Branch of Engineering: Mechanical 
 
 MEMBER 4 PHILLIP ABBOTT
 Hi
