@@ -2,9 +2,21 @@ LIST OF MEMBERS FROM TEAM 63
 
 MEMBER 1 ANDY HOANG
 
-MEMBER 2 MARIA TAKOS
+Hi Im Andy
+ 
+Role in project: team leader + programmer
+ 
+Preferred branch of engineering: Electrical 
 
-MEMBER 3 MATTHEW RIBEIRO 
+MEMBER 2 MARIA TAKOS
+Hello 
+Team Role: Undefined 
+Preferred Branch of Engineering: No Idea
+
+MEMBER 3 MATTHEW RIBEIRO
+Hi I'm Matt
+Team Role: Undefined
+Preffered Branch of Engineering: Mechanical 
 
 MEMBER 4 PHILLIP ABBOTT
 Hi
