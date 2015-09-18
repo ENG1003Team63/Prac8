@@ -2,16 +2,14 @@ LIST OF MEMBERS FROM TEAM 63
 
 MEMBER 1 ANDY HOANG
 
-MEMBER 2 MARIA TAKOS
-
-MEMBER 3 MATTHEW RIBEIRO 
-
-MEMBER 4 PHILLIP ABBOTT
-
-ANDY HOANG
- 
 Hi Im Andy
  
 Role in project: team leader + programmer
  
 Preferred branch of engineering: Electrical 
+
+MEMBER 2 MARIA TAKOS
+
+MEMBER 3 MATTHEW RIBEIRO 
+
+MEMBER 4 PHILLIP ABBOTT
